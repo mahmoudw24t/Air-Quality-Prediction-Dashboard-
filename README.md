@@ -7,9 +7,9 @@ The **Air Quality Intelligence & Prediction System** is an advanced end-to-end d
 
 ## Collaborators
 1. **Mahmoud Ashraf**
-2. **Shahd Salah**
+2. **Shahd hani**
 3. **Mahmoud Sadek**
-4. **Farah Hani**
+4. **Farah salah**
 5. **Abdelrahman Mohamed**
 
 ---
